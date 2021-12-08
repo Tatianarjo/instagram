@@ -23,3 +23,5 @@ ReactDOM.render(
         //lib (firebase is ging to live here)
         // services (firebase functions here)
         // styles (tailwind's folder(app/tailwind))
+            // 30:40 About to setup Firebase
+            // 41:20
