@@ -1,3 +1,4 @@
+import logo from './images/logo.png'
 
 function App() {
   return (
@@ -5,7 +6,10 @@ function App() {
     <h1>Hello TotGram</h1>
 
     <div className="app__header">
-
+      <img className="app__headerImage"
+      src= {logo}
+      alt="icy whites logo"
+    />
     </div>
     {/* Header */}
 
